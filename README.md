@@ -19,8 +19,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=erinneria&show_icons=true&theme=gotham)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=erinneria&theme=gotham)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=erinneria&layout=compact&theme=gotham)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erinneria&layout=compact&theme=gotham">
-</p>
 
