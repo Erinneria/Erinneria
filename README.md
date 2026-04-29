@@ -9,7 +9,7 @@
   <a href="https://github.com/erinneria">
     <img src="https://img.shields.io/github/followers/erinneria?label=Followers&logo=github&style=flat" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=erinneria&color=blueviolet&style=flat" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=erinneria&color=blueviolet&style=flat" /> -->
 </p>
 
 <p align="center">
