@@ -1,59 +1,44 @@
 <p align="center">
-  <a href="https://space.bilibili.com/28939532">
-    <img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-Erinneria-FE7398?logo=bilibili&logoColor=white" />
-  </a>
-  <a href="https://github.com/erinneria">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/erinneria?label=GitHub%20followers&logo=github&style=flat" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:FE7398&height=180&section=header&text=Erinneria&fontSize=54&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi, I'm Erinneria</h1>
+<p align="center">
+  <a href="https://space.bilibili.com/28939532">
+    <img src="https://img.shields.io/badge/Bilibili-Erinneria-FE7398?logo=bilibili&logoColor=white" />
+  </a>
+  <a href="https://github.com/erinneria">
+    <img src="https://img.shields.io/github/followers/erinneria?label=Followers&logo=github&style=flat" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=erinneria&color=blueviolet&style=flat" />
+</p>
 
 <p align="center">
-  清華大学の学生です<br/>
-  I build small, useful tools for learning, research, and daily workflows.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%A6%E3%81%AE%E5%AD%A6%E7%94%9F%E3%81%A7%E3%81%99;Code+%2F+Tools+%2F+Automation;Electron+%2B+Vue+%2B+TypeScript;Local-first+desktop+apps" />
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@:erinneria?theme=rule34" />
 </p>
 
 ---
 
-### About Me
-
-- Student at Tsinghua University
-- Interested in desktop apps, automation, data processing, and AI-assisted tools
-- Currently building local-first education utilities with Electron, Vue, and TypeScript
-- I like making tools that are quiet, practical, and actually usable
-
-### Featured Project
-
-#### Lab Attendance Assistant
-
-A local-first Windows desktop assistant for lab course management.
-
-- Student list import from Excel
-- Time slot and group matching
-- Attendance sheet export
-- Local submission collection
-- IMAP email attachment import
-- Automatic first-pass grading
-- Grade export
-- Installer and no-install zip releases
-
-Repository: [lab-attendance-assistant](https://github.com/Erinneria/lab-attendance-assistant)
-
-### Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue-42B883?logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,electron,nodejs,python,html,css,git,github,vscode,windows&perline=6" />
 </p>
 
-### GitHub Stats
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=erinneria&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=erinneria&show_icons=true&theme=gotham&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erinneria&layout=compact&theme=gotham&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=erinneria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erinneria&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erinneria&theme=tokyo-night&hide_border=true&bg_color=00000000" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FE7398,100:1E90FF&height=100&section=footer" />
 </p>
