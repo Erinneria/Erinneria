@@ -31,8 +31,8 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=erinneria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erinneria&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=erinneria&show_icons=true&hide_border=true&bg_color=00000000&title_color=6A9CFF&text_color=20B8B0&icon_color=FE7398" />
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=erinneria&layout=compact&hide_border=true&bg_color=00000000&title_color=6A9CFF&text_color=20B8B0" />
 </p>
 
 <p align="center">
